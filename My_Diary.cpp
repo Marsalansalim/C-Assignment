@@ -1,5 +1,5 @@
 
-Problem no 1:
+//Simple My Diary Console app
 
 
 #include <iostream>
